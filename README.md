@@ -1,0 +1,2 @@
+# host-AGH
+host Adguard
