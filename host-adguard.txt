@@ -32,3 +32,4 @@
 ||b-hls-24.doppiocdn.com^$important
 ||b-hls-10.doppiocdn.com^$important
 ||mon-va.byteoversea.com^$important
+||youtube.com^
